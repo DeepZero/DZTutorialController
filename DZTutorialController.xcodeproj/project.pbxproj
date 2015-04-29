@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B902C3D41AF07F8D001F06CE /* DZTutoialController.m in Sources */ = {isa = PBXBuildFile; fileRef = B902C3D31AF07F8D001F06CE /* DZTutoialController.m */; };
 		B953259A1AEF8E9B000154EE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B95325991AEF8E9B000154EE /* main.m */; };
 		B953259D1AEF8E9B000154EE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B953259C1AEF8E9B000154EE /* AppDelegate.m */; };
 		B95325A01AEF8E9B000154EE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B953259F1AEF8E9B000154EE /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B902C3D21AF07F8D001F06CE /* DZTutoialController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZTutoialController.h; sourceTree = "<group>"; };
+		B902C3D31AF07F8D001F06CE /* DZTutoialController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZTutoialController.m; sourceTree = "<group>"; };
 		B95325941AEF8E9B000154EE /* DZTutorialController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DZTutorialController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B95325981AEF8E9B000154EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B95325991AEF8E9B000154EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -85,6 +88,8 @@
 				B953259C1AEF8E9B000154EE /* AppDelegate.m */,
 				B953259E1AEF8E9B000154EE /* ViewController.h */,
 				B953259F1AEF8E9B000154EE /* ViewController.m */,
+				B902C3D21AF07F8D001F06CE /* DZTutoialController.h */,
+				B902C3D31AF07F8D001F06CE /* DZTutoialController.m */,
 				B95325A11AEF8E9B000154EE /* Main.storyboard */,
 				B95325A41AEF8E9B000154EE /* Images.xcassets */,
 				B95325A61AEF8E9B000154EE /* LaunchScreen.xib */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B902C3D41AF07F8D001F06CE /* DZTutoialController.m in Sources */,
 				B95325A01AEF8E9B000154EE /* ViewController.m in Sources */,
 				B953259D1AEF8E9B000154EE /* AppDelegate.m in Sources */,
 				B953259A1AEF8E9B000154EE /* main.m in Sources */,
@@ -418,6 +424,7 @@
 				B95325B91AEF8E9B000154EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B95325BA1AEF8E9B000154EE /* Build configuration list for PBXNativeTarget "DZTutorialControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +433,7 @@
 				B95325BC1AEF8E9B000154EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
