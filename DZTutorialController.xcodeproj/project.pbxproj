@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B902C3D41AF07F8D001F06CE /* DZTutoialController.m in Sources */ = {isa = PBXBuildFile; fileRef = B902C3D31AF07F8D001F06CE /* DZTutoialController.m */; };
+		B902C3D71AF11425001F06CE /* DZTutorialView.m in Sources */ = {isa = PBXBuildFile; fileRef = B902C3D61AF11425001F06CE /* DZTutorialView.m */; };
 		B953259A1AEF8E9B000154EE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B95325991AEF8E9B000154EE /* main.m */; };
 		B953259D1AEF8E9B000154EE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B953259C1AEF8E9B000154EE /* AppDelegate.m */; };
 		B95325A01AEF8E9B000154EE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B953259F1AEF8E9B000154EE /* ViewController.m */; };
@@ -30,6 +31,8 @@
 /* Begin PBXFileReference section */
 		B902C3D21AF07F8D001F06CE /* DZTutoialController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZTutoialController.h; sourceTree = "<group>"; };
 		B902C3D31AF07F8D001F06CE /* DZTutoialController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZTutoialController.m; sourceTree = "<group>"; };
+		B902C3D51AF11425001F06CE /* DZTutorialView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZTutorialView.h; sourceTree = "<group>"; };
+		B902C3D61AF11425001F06CE /* DZTutorialView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZTutorialView.m; sourceTree = "<group>"; };
 		B95325941AEF8E9B000154EE /* DZTutorialController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DZTutorialController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B95325981AEF8E9B000154EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B95325991AEF8E9B000154EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -90,6 +93,8 @@
 				B953259F1AEF8E9B000154EE /* ViewController.m */,
 				B902C3D21AF07F8D001F06CE /* DZTutoialController.h */,
 				B902C3D31AF07F8D001F06CE /* DZTutoialController.m */,
+				B902C3D51AF11425001F06CE /* DZTutorialView.h */,
+				B902C3D61AF11425001F06CE /* DZTutorialView.m */,
 				B95325A11AEF8E9B000154EE /* Main.storyboard */,
 				B95325A41AEF8E9B000154EE /* Images.xcassets */,
 				B95325A61AEF8E9B000154EE /* LaunchScreen.xib */,
@@ -227,6 +232,7 @@
 				B902C3D41AF07F8D001F06CE /* DZTutoialController.m in Sources */,
 				B95325A01AEF8E9B000154EE /* ViewController.m in Sources */,
 				B953259D1AEF8E9B000154EE /* AppDelegate.m in Sources */,
+				B902C3D71AF11425001F06CE /* DZTutorialView.m in Sources */,
 				B953259A1AEF8E9B000154EE /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
